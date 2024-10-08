@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @marcel-599
+- 👀 I’m interested in Program Development, Game Design, Web Design
+- 🌱 I’m currently learning C, Java, Javascript, Python, html, css
+- 📫 How to reach me. Email:Wawryszuk-M@ulster.ac.uk
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Initial release of git was in 2005!
